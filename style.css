@@ -1,0 +1,9 @@
+textarea{
+  height: 250px;
+  width: 250px; 
+  padding: 1%;
+  border: none;
+  background-color: #FFF9C4;
+  font-family: 'Caveat', cursive;
+  font-size: 24px;
+}
